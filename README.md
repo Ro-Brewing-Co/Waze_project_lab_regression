@@ -66,7 +66,5 @@ La historia, todos los nombres, personajes e incidentes retratados en este proye
 
 Con este proyecto de fin de curso, adquirirá una valiosa práctica y aplicará sus nuevas habilidades al completar lo siguiente:
 
-- Completar las preguntas del documento de estrategia PACE del Curso 5.
-- Responder a las preguntas del archivo de proyecto del Notebook de Jupyter.
 - Construir un modelo de **Regresión logística binomial**.
 - Crear un **Resumen ejecutivo** para compartir sus resultados.
